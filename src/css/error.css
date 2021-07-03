@@ -1,0 +1,28 @@
+.maintenancePage {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 50px 0;
+    padding-top: 100px;
+}
+.maintenancePage .contentSec {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.maintenancePage .pageTitle {
+    padding-bottom: 30px;
+}
+.maintenancePage .pageTitle>span {
+    font-size: 20rem;
+    font-family: AllianzSansBold;
+    color: #ff9b41;
+    line-height: 140px;
+    height: 143px;
+}
+
+.maintenancePage .contentSec .title {
+    font-size: 1.8rem;
+    color: #3a3a3a;
+    padding-bottom: 20px;
+    display: block;
+}
